@@ -1,4 +1,6 @@
 # buildtest
+[![Build Status](https://travis-ci.org/manoet/buildtest.svg?branch=master)](https://travis-ci.org/manoet/buildtest)
+
 Scripts to develop compile time tests using CMake and CTest.
 
 ## Usage
